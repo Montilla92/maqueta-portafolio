@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+.negro {
+    height: 3rem;
+    background-color: black;
+}
+
+.blanco {
+    height: 10rem;
+    background-color: antiquewhite;
+}
+
+.morado {
+    height: 10rem;
+    background-color: purple;
+}
+
+.purpura {
+    height: 15rem;
+    background-color: blueviolet;
+}
+
+.moradoo {
+    height: 12rem;
+    background-color: purple;
+}
+
+.blancoo {
+    height: 12rem;
+    background-color: antiquewhite;
+}
